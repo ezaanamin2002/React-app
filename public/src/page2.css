@@ -1,0 +1,18 @@
+.about{
+  font-weight: bold;
+  font-style: italic;
+color: black;
+font-size: 4rem;
+  
+}
+.line12 {
+  border: 10px solid rgba(10, 33, 84, 0.775);
+border-radius: 5px;
+  margin-top: 0%;
+  margin-left: 0%;
+  margin-bottom: 5%;
+  margin-right: 0%;
+  width: 40%;
+position: relative;
+left: 520px;
+}

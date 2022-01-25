@@ -1,0 +1,160 @@
+.background1{
+    background-image: url("https://images.unsplash.com/photo-1493421419110-74f4e85ba126?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1469&q=80");
+ 
+    height: 1000px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    opacity: 0.9;
+    margin-top:0px;
+margin-left:0px;
+margin-bottom:0 px;
+margin-right:0px;
+
+
+  }
+  .background2{
+    background-image: url("https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dmlkZW8lMjBlZGl0aW5nfGVufDB8fDB8fA%3D%3D&w=1000&q=80");
+ 
+    height: 1000px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    opacity: 0.9;
+    margin-top:0px;
+margin-left:0px;
+margin-bottom:0px;
+margin-right:0px;
+
+
+  }
+  .background3{
+    background-image: url("https://blog.tubikstudio.com/wp-content/uploads/2019/12/back-to-the-wild-illustration-tubikarts.jpg");
+ 
+    height: 1000px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    opacity: 0.9;
+    margin-top:0px;
+margin-left:0px;
+margin-bottom:0px;
+margin-right:0px;
+
+
+  }
+  .background4{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUUVJZ0xtrnUcIkhB6k49FpEY3IeWiD5Potw&usqp=CAU");
+ 
+    height: 1000px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    opacity: 0.9;
+    margin-top:0px;
+margin-left:0px;
+margin-bottom:0px;
+margin-right:0px;
+
+
+  }
+  .background5{
+    background-image: url("https://wallpapercave.com/wp/wp2351020.jpg");
+ 
+    height: 1000px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    opacity: 0.9;
+    margin-top:0px;
+margin-left:0px;
+margin-bottom:0px;
+margin-right:0px;
+
+
+  }
+  .heading
+  {
+ 
+    color: white;
+    font-weight: bold;
+    position: relative;
+top:350px;
+left:100px;
+
+  }
+  .heading1
+  {
+ 
+    color: black;
+    font-weight: bold;
+    position: relative;
+
+
+  }
+  body{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+   
+}
+
+.head14{
+  text-align: center;
+  font-weight: bold;
+
+}
+.line12 {
+  border: 10px solid rgba(10, 33, 84, 0.775);
+border-radius: 5px;
+  margin-top: 0%;
+  margin-left: 0%;
+  margin-bottom: 5%;
+  margin-right: 0%;
+  width: 40%;
+position: relative;
+left: 520px;
+}
+.background-image{
+  background-image:url("https://images.unsplash.com/photo-1493421419110-74f4e85ba126?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80");
+  
+  background-color: #cccccc; /* Used if the image is unavailable */
+  height: 500px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; 
+
+}
+.background-image1{
+  background-image:url("https://d2nb51khh83712.cloudfront.net/images/large/Featured_Image_Video_Editing_Softwares_39330e87f8.png");
+  
+  background-color: #cccccc; /* Used if the image is unavailable */
+  height: 500px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; 
+
+}
+.background-image2{
+  background-image:url("https://cdn.dribbble.com/users/1731254/screenshots/8429639/media/bd0383320d48d19ca82012d546c0d477.png?compress=1&resize=800x600&vertical=top");
+  
+  background-color: #cccccc; /* Used if the image is unavailable */
+  height: 550px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; 
+
+}
+.background-image3{
+  background-image:url("https://www.ebaystoredesign.org/images/Flyer-Brochure-Design.jpg");
+  
+  background-color: #cccccc; /* Used if the image is unavailable */
+  height: 550px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; 
+
+}
+
+
